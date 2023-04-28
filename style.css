@@ -1,0 +1,47 @@
+h1
+{
+    text-align: center;
+    color: red;
+    width: 500px; 
+    height: 40px;
+    padding-top: 20pt; 
+    padding-right: 10pt;
+    padding-left: 10pt;
+    padding-bottom: 10pt;
+        border-style: inset;
+        border-top-color: blue;
+        border-top-width: 75pt;
+        border-right-color: green;
+        border-right-width: 40pt;
+        border-right-style: double;
+        border-bottom-color: purple;
+        border-bottom-width: 100pt;
+        border-left-color: red;
+        border-left-width: 60pt;
+        border-left-style: double;
+        margin-top: 10pt;
+  margin-right: 75pt;
+  margin-bottom: 30pt;
+  margin-left: 500pt;
+  }
+h2 {text-align: center;
+    color: red;
+    width: 125px; 
+    height: 25px;
+        border-style: dashed;
+        border-top-color: yellowgreen;
+        border-top-width: 10pt;
+        border-right-color: green;
+        border-right-width: 40pt;
+        border-right-style: dashed;
+        border-bottom-color: purple;
+        border-bottom-width: 10pt;
+        border-bottom-style: double;
+        border-left-color: red;
+        border-left-width: 60pt;
+        border-left-style: double;
+        margin-top: 15pt;
+  margin-right: 30pt;
+  margin-bottom: 25pt;
+  margin-left: 665pt;
+      }
